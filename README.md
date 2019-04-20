@@ -20,5 +20,5 @@ If output filename does not exits the program will try to determine the name fro
 
 # TODO
 
-- [ ] progress bar
+- [x] progress bar
 - [ ] stats
